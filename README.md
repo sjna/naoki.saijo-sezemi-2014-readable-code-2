@@ -13,4 +13,4 @@
     -----------
 
 # 3. 実行方法
-  ./recipe.sh recipe-data.txt
+  sh recipe.sh recipe-data.txt
